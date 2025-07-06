@@ -39,7 +39,7 @@ setInterval(() => {
 
 
 // Fetch and display total download count from JSON
-fetch('data/downloads.json')
+fetch('../assets/data/downloads.json')
   .then(response => response.json())
   .then(data => {
     let total = 0;
