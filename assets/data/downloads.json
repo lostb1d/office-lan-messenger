@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Stand Alone Executable File",
+    "url": "assets/app/OLMessenger.exe",
+    "download_count": 0
+  },
+  {
+    "name": "Windows Installer",
+    "url": "assets/app/LANMessenger_Installer.exe",
+    "download_count": 0
+  }
+]
